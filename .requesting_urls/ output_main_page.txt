@@ -1,0 +1,322 @@
+https://en.wikipedia.org/w/index.php<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Information for "Main page" - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1f0052e7-ee49-4e26-94a3-10303aa53d3a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Main_page","wgTitle":"Main page","wgCurRevisionId":777924062,"wgRevisionId":0,"wgArticleId":217225,"wgIsArticle":!1,"wgIsRedirect":!0,"wgAction":"info","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Main_page","wgRelevantArticleId":217225,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgPageViewInfo":{"graph":{"version":2,"data":[{"name":"pageviews","values":[{"timestamp":"20211006","views":1624},{"timestamp":"20211007","views":1527},{"timestamp":"20211008","views":1441},{"timestamp":"20211009","views":1488},{"timestamp":"20211010","views":1385},{"timestamp":"20211011","views":1679},{"timestamp":"20211012","views":1652},{"timestamp":"20211013","views":1612},{"timestamp":"20211014","views":1544},{"timestamp":"20211015","views":1662},{"timestamp":"20211016","views":1387},{"timestamp":"20211017","views":1481},{"timestamp":"20211018","views":1750},{"timestamp":"20211019","views":1687},{
+"timestamp":"20211020","views":1568},{"timestamp":"20211021","views":1615},{"timestamp":"20211022","views":1531},{"timestamp":"20211023","views":1439},{"timestamp":"20211024","views":1432},{"timestamp":"20211025","views":1598},{"timestamp":"20211026","views":1932},{"timestamp":"20211027","views":1793},{"timestamp":"20211028","views":1757},{"timestamp":"20211029","views":1635},{"timestamp":"20211030","views":1358},{"timestamp":"20211031","views":1538},{"timestamp":"20211101","views":1604},{"timestamp":"20211102","views":1792},{"timestamp":"20211103","views":1478},{"timestamp":"20211104","views":1412}],"transform":[{"type":"formula","field":"date","expr":"datetime(parseInt(substring(datum.timestamp,0,4)),parseInt(substring(datum.timestamp,4,6))-1,parseInt(substring(datum.timestamp,6,8)))"}]},{"name":"alldata","source":"pageviews","transform":[{"type":"formula","field":"Page views","expr":"datum.views"},{"type":"fold","fields":["Page views"]}]},{"name":"stats","source":"alldata",
+"transform":[{"type":"aggregate","groupby":["date"],"summarize":[{"field":"value","ops":["sum"]}]}]}],"scales":[{"name":"x","type":"time","range":"width","domain":{"data":"alldata","field":"date"}},{"name":"y","type":"linear","range":"height","nice":!0,"domain":{"data":"stats","field":"sum_value"}},{"name":"c","type":"ordinal","range":["#5DA5DA"],"domain":{"data":"alldata","field":"key"}}],"axes":[{"type":"x","scale":"x","ticks":5},{"type":"y","scale":"y"}],"marks":[{"type":"group","from":{"data":"alldata","transform":[{"type":"stack","groupby":["date"],"sortby":["key"],"field":"value"},{"type":"facet","groupby":["key"]}]},"marks":[{"type":"area","properties":{"enter":{"interpolate":{"value":"monotone"},"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"layout_start"},"y2":{"scale":"y","field":"layout_end"},"fill":{"scale":"c","field":"key"},"fillOpacity":{"value":1}}}}]}]},"start":"6 October 2021","end":"4 November 2021"},"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition"
+:"interlanguage","wgULSisCompactLinksEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.interface.helpers.styles":"ready","mediawiki.helplink":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.pageviewinfo","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.helplink%7Cmediawiki.interface.helpers.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Information for &quot;Main page&quot; - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Main_page"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/w/index.php?title=Main_page&amp;action=info"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_page rootpage-Main_page skin-vector action-info skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="/wiki/Help:Page_information" target="_blank" class="mw-helplink">Help</a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Information for "Main page"</h1>
+	<div id="bodyContent" class="vector-body">
+		
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-parser-output">
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+<div class="toctitle"><h2 id="mw-toc-heading"><span class="mw-headline" id="Contents">Contents</span></h2></div>
+<div class="hlist hlist-separated">
+<ul><li><a href="#Basic_information">Basic information</a></li>
+<li><a href="#Page_protection">Page protection</a></li>
+<li><a href="#Edit_history">Edit history</a></li>
+<li><a href="#Page_properties">Page properties</a></li>
+<li><a href="#External_tools">External tools</a></li></ul>
+</div>
+</div>
+</div><style>.mw-hiddenCategoriesExplanation { display: none; }</style>
+<style>.mw-templatesUsedExplanation { display: none; }</style>
+<h2 id="mw-pageinfo-header-basic"><span class="mw-headline" id="Basic_information">Basic information</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-display-title"><td style="vertical-align: top;">Display title</td><td>Main page</td></tr>
+<tr id="mw-pageinfo-redirectsto"><td style="vertical-align: top;">Redirects to</td><td><a href="/wiki/Main_Page" title="Main Page">Main Page</a> (<a href="/w/index.php?title=Main_Page&amp;action=info" title="Main Page">info</a>)</td></tr>
+<tr id="mw-pageinfo-default-sort"><td style="vertical-align: top;">Default sort key</td><td>Main page</td></tr>
+<tr id="mw-pageinfo-length"><td style="vertical-align: top;">Page length (in bytes)</td><td>170</td></tr>
+<tr id="mw-pageinfo-article-id"><td style="vertical-align: top;">Page ID</td><td>217225</td></tr>
+<tr><td style="vertical-align: top;">Page content language</td><td>en - English</td></tr>
+<tr id="mw-pageinfo-content-model"><td style="vertical-align: top;">Page content model</td><td>wikitext</td></tr>
+<tr id="mw-pageinfo-robot-policy"><td style="vertical-align: top;">Indexing by robots</td><td>Allowed</td></tr>
+<tr id="mw-pageinfo-watchers"><td style="vertical-align: top;">Number of page watchers</td><td>37</td></tr>
+<tr id="mw-pageinfo-visiting-watchers"><td style="vertical-align: top;">Number of page watchers who visited recent edits</td><td>7</td></tr>
+<tr><td style="vertical-align: top;"><a href="/w/index.php?title=Special:WhatLinksHere/Main_page&amp;hidelinks=1&amp;hidetrans=1" title="Special:WhatLinksHere/Main page">Number of redirects to this page</a></td><td>0</td></tr>
+<tr id="mw-pvi-month-count"><td style="vertical-align: top;">Page views in the past 30 days</td><td><div class="mw-pvi-month">47,401</div></td></tr>
+<tr><td style="vertical-align: top;">Wikidata item ID</td><td>None</td></tr>
+</table>
+<h2 id="mw-pageinfo-header-restrictions"><span class="mw-headline" id="Page_protection">Page protection</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-restriction-edit"><td style="vertical-align: top;">Edit</td><td>Require administrator access (no expiry set)</td></tr>
+<tr id="mw-restriction-move"><td style="vertical-align: top;">Move</td><td>Require administrator access (no expiry set)</td></tr>
+</table>
+<a href="/w/index.php?title=Special:Log&amp;type=protect&amp;page=Main+page" title="Special:Log">View the protection log for this page.</a>
+<h2 id="mw-pageinfo-header-edits"><span class="mw-headline" id="Edit_history">Edit history</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-firstuser"><td style="vertical-align: top;">Page creator</td><td><a href="/wiki/User:Ellmist" class="mw-userlink" title="User:Ellmist"><bdi>Ellmist</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Ellmist" class="mw-usertoollinks-talk" title="User talk:Ellmist">talk</a> | <a href="/wiki/Special:Contributions/Ellmist" class="mw-usertoollinks-contribs" title="Special:Contributions/Ellmist">contribs</a>)</span></td></tr>
+<tr id="mw-pageinfo-firsttime"><td style="vertical-align: top;">Date of page creation</td><td><a href="/w/index.php?title=Main_page&amp;oldid=6852763" class="mw-redirect" title="Main page">05:37, 27 April 2003</a></td></tr>
+<tr id="mw-pageinfo-lastuser"><td style="vertical-align: top;">Latest editor</td><td><a href="/wiki/User:BD2412" class="mw-userlink" title="User:BD2412"><bdi>BD2412</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:BD2412" class="mw-usertoollinks-talk" title="User talk:BD2412">talk</a> | <a href="/wiki/Special:Contributions/BD2412" class="mw-usertoollinks-contribs" title="Special:Contributions/BD2412">contribs</a>)</span></td></tr>
+<tr id="mw-pageinfo-lasttime"><td style="vertical-align: top;">Date of latest edit</td><td><a href="/w/index.php?title=Main_page&amp;oldid=777924062" class="mw-redirect" title="Main page">03:05, 30 April 2017</a></td></tr>
+<tr id="mw-pageinfo-edits"><td style="vertical-align: top;">Total number of edits</td><td>26</td></tr>
+<tr id="mw-pageinfo-recent-edits"><td style="vertical-align: top;">Recent number of edits (within past 30 days)</td><td>0</td></tr>
+<tr id="mw-pageinfo-recent-authors"><td style="vertical-align: top;">Recent number of distinct authors</td><td>0</td></tr>
+</table>
+<h2 id="mw-pageinfo-header-properties"><span class="mw-headline" id="Page_properties">Page properties</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-hidden-categories"><td style="vertical-align: top;">Hidden categories (5)</td><td><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 5 hidden categories<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Category#Hiding_categories" title="Help:Category">help</a>)</span>&#160;:
+</p></div><ul>
+<li><a href="/wiki/Category:Fully_protected_redirects" title="Category:Fully protected redirects">Category:Fully protected redirects</a></li>
+<li><a href="/wiki/Category:Protected_pages_associated_with_Main_Page_articles" title="Category:Protected pages associated with Main Page articles">Category:Protected pages associated with Main Page articles</a></li>
+<li><a href="/wiki/Category:Redirects_from_other_capitalisations" title="Category:Redirects from other capitalisations">Category:Redirects from other capitalisations</a></li>
+<li><a href="/wiki/Category:Unprintworthy_redirects" title="Category:Unprintworthy redirects">Category:Unprintworthy redirects</a></li>
+<li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Category:Wikipedia indefinitely move-protected pages</a></li>
+</ul></td></tr>
+<tr id="mw-pageinfo-templates"><td style="vertical-align: top;">Transcluded templates (22)</td><td><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages transcluded onto the current version of this page<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Transclusion" title="Help:Transclusion">help</a>)</span>:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:Mbox" title="Template:Mbox">Template:Mbox</a> (<a href="/w/index.php?title=Template:Mbox&amp;action=edit" title="Template:Mbox">view source</a>) (protected)</li><li><a href="/wiki/Template:Pp" title="Template:Pp">Template:Pp</a> (<a href="/w/index.php?title=Template:Pp&amp;action=edit" title="Template:Pp">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Pp-move" title="Template:Pp-move">Template:Pp-move</a> (<a href="/w/index.php?title=Template:Pp-move&amp;action=edit" title="Template:Pp-move">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R_from_other_capitalisation" title="Template:R from other capitalisation">Template:R from other capitalisation</a> (<a href="/w/index.php?title=Template:R_from_other_capitalisation&amp;action=edit" title="Template:R from other capitalisation">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R_fully_protected" title="Template:R fully protected">Template:R fully protected</a> (<a href="/w/index.php?title=Template:R_fully_protected&amp;action=edit" title="Template:R fully protected">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R_protected" class="mw-redirect" title="Template:R protected">Template:R protected</a> (<a href="/w/index.php?title=Template:R_protected&amp;action=edit" class="mw-redirect" title="Template:R protected">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Redirect_category_shell" title="Template:Redirect category shell">Template:Redirect category shell</a> (<a href="/w/index.php?title=Template:Redirect_category_shell&amp;action=edit" title="Template:Redirect category shell">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Redirect_shell" class="mw-redirect" title="Template:Redirect shell">Template:Redirect shell</a> (<a href="/w/index.php?title=Template:Redirect_shell&amp;action=edit" class="mw-redirect" title="Template:Redirect shell">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Redirect_template" title="Template:Redirect template">Template:Redirect template</a> (<a href="/w/index.php?title=Template:Redirect_template&amp;action=edit" title="Template:Redirect template">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Template_link" title="Template:Template link">Template:Template link</a> (<a href="/w/index.php?title=Template:Template_link&amp;action=edit" title="Template:Template link">view source</a>) (protected)</li><li><a href="/wiki/Template:Tl" class="mw-redirect" title="Template:Tl">Template:Tl</a> (<a href="/w/index.php?title=Template:Tl&amp;action=edit" class="mw-redirect" title="Template:Tl">view source</a>) (protected)</li><li><a href="/wiki/Module:Arguments" title="Module:Arguments">Module:Arguments</a> (<a href="/w/index.php?title=Module:Arguments&amp;action=edit" title="Module:Arguments">view source</a>) (protected)</li><li><a href="/wiki/Module:Effective_protection_expiry" title="Module:Effective protection expiry">Module:Effective protection expiry</a> (<a href="/w/index.php?title=Module:Effective_protection_expiry&amp;action=edit" title="Module:Effective protection expiry">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Effective_protection_level" title="Module:Effective protection level">Module:Effective protection level</a> (<a href="/w/index.php?title=Module:Effective_protection_level&amp;action=edit" title="Module:Effective protection level">view source</a>) (protected)</li><li><a href="/wiki/Module:File_link" title="Module:File link">Module:File link</a> (<a href="/w/index.php?title=Module:File_link&amp;action=edit" title="Module:File link">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Message_box" title="Module:Message box">Module:Message box</a> (<a href="/w/index.php?title=Module:Message_box&amp;action=edit" title="Module:Message box">view source</a>) (protected)</li><li><a href="/wiki/Module:Message_box/configuration" title="Module:Message box/configuration">Module:Message box/configuration</a> (<a href="/w/index.php?title=Module:Message_box/configuration&amp;action=edit" title="Module:Message box/configuration">view source</a>) (protected)</li><li><a href="/wiki/Module:No_globals" title="Module:No globals">Module:No globals</a> (<a href="/w/index.php?title=Module:No_globals&amp;action=edit" title="Module:No globals">view source</a>) (protected)</li><li><a href="/wiki/Module:Protection_banner" title="Module:Protection banner">Module:Protection banner</a> (<a href="/w/index.php?title=Module:Protection_banner&amp;action=edit" title="Module:Protection banner">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Protection_banner/config" title="Module:Protection banner/config">Module:Protection banner/config</a> (<a href="/w/index.php?title=Module:Protection_banner/config&amp;action=edit" title="Module:Protection banner/config">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Redirect_template" title="Module:Redirect template">Module:Redirect template</a> (<a href="/w/index.php?title=Module:Redirect_template&amp;action=edit" title="Module:Redirect template">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Yesno" title="Module:Yesno">Module:Yesno</a> (<a href="/w/index.php?title=Module:Yesno&amp;action=edit" title="Module:Yesno">view source</a>) (protected)</li></ul></td></tr>
+</table>
+<h2><span class="mw-headline" id="External_tools">External tools</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://wikipedia.ramselehof.de/wikiblame.php?lang=en&amp;article=Main_page">Revision history search</a></li>
+<li><a rel="nofollow" class="external text" href="https://xtools.wmflabs.org/articleinfo/?article=Main_page&amp;project=en.wikipedia.org">Revision history statistics</a></li>
+<li><a rel="nofollow" class="external text" href="https://xtools.wmflabs.org/topedits/en.wikipedia.org?page=Main_page&amp;namespace=0">Edits by user</a></li>
+<li><a class="external text" href="https://pageviews.toolforge.org?pages=Main_page&amp;project=en.wikipedia.org">Page view statistics</a></li>
+<li><a rel="nofollow" class="external text" href="http://en.wikichecker.com/article/?a=Main_page">WikiChecker</a></li></ul><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Main_page">https://en.wikipedia.org/wiki/Main_page</a>"</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Main+page&amp;returntoquery=action%3Dinfo" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Main+page&amp;returntoquery=action%3Dinfo" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Main_page" class="mw-redirect" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Main_page" rel="discussion" class="mw-redirect" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
+		
+		<span>Variants</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="mw-list-item"><a href="/wiki/Main_page" class="mw-redirect"><span>Read</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/w/index.php?title=Main_page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Main_page&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		
+		<span>More</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class=" vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Main_page" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Main_page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Main_page&amp;action=info" title="More information about this page"><span>Page information</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Main_page&amp;action=info&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":235,"wgHostname":"mw1328"});});</script>
+</body></html>
